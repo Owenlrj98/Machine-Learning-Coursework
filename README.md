@@ -2,6 +2,7 @@
 
 Working Conditions Research
 Analyzed variables using Machine Learning Framework
+
 Adopted techniques such as: K-Means Clustering, Math Regression Model, Forward/Backward Selection, K-Fold Cross Validation and Data Visualization
 
 Main programming Language used: R
